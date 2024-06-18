@@ -1,0 +1,1 @@
+import{_ as e}from"./error.229cea25.js";import{e as t,o as n,x as r}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function s(_,m){const o=t("SystemLog");return n(),r(o)}const i=e(c,[["render",s]]);export{i as default};

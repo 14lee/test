@@ -1,0 +1,1 @@
+import{_ as e}from"./error.229cea25.js";import{e as o,o as t,x as a}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const r={};function c(s,_){const n=o("OrganizationManagement");return t(),a(n)}const f=e(r,[["render",c]]);export{f as default};

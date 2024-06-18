@@ -1,0 +1,1 @@
+import{aj as t}from"./element-plus.59ccb443.js";function c(o){const e=document.createElement("input");e.value=o,document.body.appendChild(e),e.select(),document.execCommand("Copy"),e.style.display="none",document.body.removeChild(e),t({type:"success",message:"复制成功!"})}export{c};

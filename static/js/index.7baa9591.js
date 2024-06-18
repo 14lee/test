@@ -1,0 +1,1 @@
+import{d as e,e as r,o as s,x as a,u as n}from"./element-plus.59ccb443.js";import{u as p}from"./login.a4e9287e.js";import"./lodash.22f463b4.js";import"./error.229cea25.js";import"../../app-config.js";const k=e({__name:"index",setup(i){const o=p();return(c,m)=>{const t=r("LogStatistics");return s(),a(t,{"is-dark":n(o).getDarkMode},null,8,["is-dark"])}}});export{k as default};

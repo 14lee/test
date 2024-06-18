@@ -1,0 +1,1 @@
+import{d as e}from"./login.a4e9287e.js";const a=e("home",{state:()=>({activeModulePath:""}),getters:{getActiveModulePath(){return this.activeModulePath}},actions:{setActiveModulePath(t){this.activeModulePath=t}}});export{a as u};

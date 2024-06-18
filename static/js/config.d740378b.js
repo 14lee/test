@@ -1,0 +1,1 @@
+import{e as r}from"../../app-config.js";const n=r.VITE_APP_BASE_URL;function e(t){return/^https?:/.test(t)||!t?t:window.location.protocol+t}const a=e(n);function c(t){const o=/^https?:/,s=t.replace(o,"");return window.location.protocol==="https:"?`wss:${s}`:`ws:${s}`}c(n);export{a as b};

@@ -1,0 +1,1 @@
+import{_ as o}from"./error.229cea25.js";import{e as n,o as r,x as t}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function s(a,_){const e=n("ResourceManagement");return r(),t(e)}const i=o(c,[["render",s]]);export{i as default};

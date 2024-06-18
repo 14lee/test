@@ -1,0 +1,1 @@
+import{_ as e}from"./error.229cea25.js";import{e as n,o as r,x as t}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function s(a,_){const o=n("OperationLog");return r(),t(o)}const f=e(c,[["render",s]]);export{f as default};

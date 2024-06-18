@@ -1,0 +1,1 @@
+import{_ as o}from"./error.229cea25.js";import{e as r,o as t,x as s}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function n(a,_){const e=r("RegisterPage");return t(),s(e)}const f=o(c,[["render",n]]);export{f as default};

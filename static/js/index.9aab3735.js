@@ -1,0 +1,1 @@
+import{_ as o}from"./error.229cea25.js";import{e as n,o as t,x as r}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function a(s,_){const e=n("RoleManagement");return t(),r(e)}const i=o(c,[["render",a]]);export{i as default};

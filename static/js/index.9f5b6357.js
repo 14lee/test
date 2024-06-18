@@ -1,0 +1,1 @@
+import{_ as o}from"./error.229cea25.js";import{e as n,o as t,x as r}from"./element-plus.59ccb443.js";import"./lodash.22f463b4.js";const c={};function i(s,a){const e=n("AdministrativeRegion");return t(),r(e)}const f=o(c,[["render",i]]);export{f as default};

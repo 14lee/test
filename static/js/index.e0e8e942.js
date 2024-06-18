@@ -1,0 +1,1 @@
+import{e as o}from"../../app-config.js";function e(t){return/^https?:/.test(t)||!t?t:window.location.protocol+t}const i=e(`${o.VITE_APP_BASE_URL}`),n=e(o.VITE_ISCENE_URL),c=`${n}#/modify/`,a=`${n}#/browse/`;export{n as a,c as b,i as c,a as i};
